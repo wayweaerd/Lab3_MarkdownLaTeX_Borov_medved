@@ -2,7 +2,7 @@
 [Markdown](https://www.markdownguide.org/)
 ![Скрин](/img/commitStructureLab3_Borov_medved.png)
 
-[Github](https://github.com/)
+[GitHub](https://github.com/)
 [VK](https://vk.com/)
 [BullDrop](https://clck.ru/3RLwKK)
 
